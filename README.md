@@ -1,4 +1,4 @@
-# 🔎 Data Detective
+#  Data Detective
 
 Automated data quality & root-cause intelligence. Upload any CSV and get a health
 score, a list of quality issues, and — the standout feature — an automatic
