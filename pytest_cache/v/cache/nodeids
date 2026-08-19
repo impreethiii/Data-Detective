@@ -1,0 +1,13 @@
+[
+  "test_data_detective.py::test_data_type_mismatch_detected",
+  "test_data_detective.py::test_duplicates_detected",
+  "test_data_detective.py::test_health_score_penalizes_missing_data",
+  "test_data_detective.py::test_health_score_within_valid_range",
+  "test_data_detective.py::test_isolation_forest_runs_without_error",
+  "test_data_detective.py::test_lift_finds_overrepresented_category",
+  "test_data_detective.py::test_missing_values_detected",
+  "test_data_detective.py::test_no_missing_values_in_complete_column",
+  "test_data_detective.py::test_outlier_detection_finds_extreme_value",
+  "test_data_detective.py::test_psi_detects_no_shift_for_identical_distributions",
+  "test_data_detective.py::test_psi_detects_real_shift"
+]
